@@ -1,0 +1,6 @@
+name: HydraniumUHC
+author: Adrackiin
+version: 1.0
+main: fr.adrackiin.hydranium.uhc.UHCCore
+depend: [HydraniumAPI]
+commands:
